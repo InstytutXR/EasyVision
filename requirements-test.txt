@@ -2,5 +2,5 @@ pytest>=3.2.3
 pytest-mock>=1.10.0
 pytest-cov<2.6.0
 numpy==1.15.4
-opencv-contrib-python==3.4.2.16
+opencv-contrib-python==4.5.5.64
 pyro4>=4.75
